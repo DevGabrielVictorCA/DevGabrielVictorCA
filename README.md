@@ -8,7 +8,7 @@ Desenvolvedor web em constante aprendizado, apaixonado por criar interfaces limp
 ## 💻 Skills & Tecnologias
 
 ### Linguagens
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg" width="40" height="40"/>
 - CSS3
 - JavaScript
 
