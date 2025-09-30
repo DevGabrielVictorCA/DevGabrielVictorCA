@@ -15,6 +15,10 @@ Desenvolvedor web em constante aprendizado, apaixonado por criar interfaces limp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5" title="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="50" height="50" alt="CSS3" title="CSS3t"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript" title="JavaScript"/>
+</div>
+
+### Frameworks & Ferramentas
+<div style="display: flex; gap: 60px; align-items: center;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50" height="50" alt="Git" title="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="50" height="50" alt="GitHub" title="GitHub"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="50" height="50" alt="VsCode" title="VsCode"/>
@@ -22,11 +26,6 @@ Desenvolvedor web em constante aprendizado, apaixonado por criar interfaces limp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="50" height="50" alt="Figma" title="Figma"/>
 </div>
 
-### Frameworks & Ferramentas
-- Git & GitHub
-- VS Code
-- Tailwind CSS (aprendendo)
-- Figma
 - Documentação de Software
 
 ---
