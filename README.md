@@ -56,7 +56,7 @@ Atualmente, estou evoluindo em **React e JavaScript moderno**, com foco em aplic
 
 🔹 **[🌐 Portfólio Pessoal](https://portfolio-gabriel-cardoso-nu.vercel.app/)**  
 
-<a href="https://seu-portfolio.vercel.app">
+<a href="https://portfolio-gabriel-cardoso-nu.vercel.app/">
   <p align="center">
     <img src="https://raw.githubusercontent.com/DevGabrielVictorCA/DevGabrielVictorCA/refs/heads/main/assets/portfolio.png" width="75%"/>
   </p>
@@ -68,8 +68,10 @@ Interface moderna desenvolvida para apresentar meus projetos, com foco em **UX/U
 
 🔹 **[💻 SL20 Tecnologia](https://sl20.com.br/)**  
 
-<a href="https://seu-portfolio.vercel.app" align="center">
-  <img src="https://raw.githubusercontent.com/DevGabrielVictorCA/DevGabrielVictorCA/refs/heads/main/assets/sl20.png" width="75%"/>
+<a href="https://portfolio-gabriel-cardoso-nu.vercel.app/">
+    <p align="center">
+      <img src="https://raw.githubusercontent.com/DevGabrielVictorCA/DevGabrielVictorCA/refs/heads/main/assets/sl20.png" width="75%"/>
+    </p>
 </a>
 
 Site institucional com layout moderno e navegação fluida, focado em **clareza, organização e presença digital**.  
@@ -78,8 +80,10 @@ Site institucional com layout moderno e navegação fluida, focado em **clareza,
 
 🔹 **[🏢 Landing Page - USAIN](https://usainsolucoes.com.br/)**  
 
-<a href="https://seu-portfolio.vercel.app" align="center">
-  <img src="https://raw.githubusercontent.com/DevGabrielVictorCA/DevGabrielVictorCA/refs/heads/main/assets/usain.png" width="75%"/>
+<a href="https://portfolio-gabriel-cardoso-nu.vercel.app/">
+    <p align="center">
+      <img src="https://raw.githubusercontent.com/DevGabrielVictorCA/DevGabrielVictorCA/refs/heads/main/assets/usain.png" width="75%"/>
+    </p>
 </a>
 
 Landing page voltada para **performance e conversão**, com estrutura otimizada e design estratégico.  
