@@ -62,6 +62,8 @@ Atualmente, estou evoluindo em **React e JavaScript moderno**, com foco em aplic
 
 Interface moderna desenvolvida para apresentar meus projetos, com foco em **UX/UI, responsividade e interatividade**.  
 
+
+
 🔹 **[💻 SL20 Tecnologia](https://sl20.com.br/)**  
 
 <a href="https://seu-portfolio.vercel.app">
@@ -70,6 +72,8 @@ Interface moderna desenvolvida para apresentar meus projetos, com foco em **UX/U
 
 Site institucional com layout moderno e navegação fluida, focado em **clareza, organização e presença digital**.  
 
+
+
 🔹 **[🏢 Landing Page - USAIN](https://usainsolucoes.com.br/)**  
 
 <a href="https://seu-portfolio.vercel.app">
@@ -77,6 +81,8 @@ Site institucional com layout moderno e navegação fluida, focado em **clareza,
 </a>
 
 Landing page voltada para **performance e conversão**, com estrutura otimizada e design estratégico.  
+
+
 
 🔹 **[⭐ Star Wars Todo List](https://starwarstodolist.shop/)**  
 
