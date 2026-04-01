@@ -1,60 +1,51 @@
-
 # 👋 Olá, eu sou o Gabriel Cardoso
 
-🎯 **Frontend Developer | UI/UX Designer**  
-💻 Crio interfaces modernas, responsivas e centradas no usuário  
-📍 Brasil | Aberto a freelas e oportunidades
+💻 **Frontend Developer | UI/UX Enthusiast**  
+🎯 Crio interfaces modernas, responsivas e focadas na experiência do usuário  
 
 ---
 
 ## 🚀 Sobre mim
 
-Sou desenvolvedor front-end com foco em **experiência do usuário (UX/UI)** e construção de interfaces modernas.
+Sou desenvolvedor front-end com foco em **UX/UI e desenvolvimento de interfaces web**.  
+Tenho experiência com criação de **sites institucionais e landing pages**, utilizando:
 
-Atualmente estou evoluindo minhas habilidades em **React, TypeScript e consumo de APIs**, aplicando tudo em projetos práticos com foco em produto.
+- HTML, CSS e JavaScript  
+- WordPress + Elementor  
 
-🎯 Busco oportunidades como freelancer ou primeira experiência profissional.
+Atualmente estou evoluindo em **React** e desenvolvimento moderno, construindo projetos práticos com foco em produto.
+
+📈 Buscando oportunidades como **freelancer ou primeira experiência profissional**.
 
 ---
 
 ## 🛠️ Tecnologias & Ferramentas
 
 ### 💻 Frontend
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30"/> HTML  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30"/> CSS  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30"/> JavaScript  
-</p>
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### ⚙️ Estudando atualmente
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30"/> React  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30"/> TypeScript  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="30"/> Tailwind CSS  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="30"/> Next.js  
-</p>
+### 🌐 CMS
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Elementor](https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white)
 
-### 🌐 CMS / No-code
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="30"/> WordPress  
-  Elementor  
-</p>
+### ⚙️ Ferramentas
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-0AC97F?style=for-the-badge&logo=figma&logoColor=white)
 
-### 🧰 Ferramentas
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30"/> Git  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30"/> GitHub  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="30"/> Figma  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="30"/> Vercel  
-</p>
+### 📚 Estudando
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ---
 
-## 📊 Estatísticas
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DevGabrielVictorCA&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevGabrielVictorCA&layout=compact&theme=tokyonight" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
@@ -62,42 +53,48 @@ Atualmente estou evoluindo minhas habilidades em **React, TypeScript e consumo d
 ## 💼 Projetos em destaque
 
 ### 🌐 Portfólio Pessoal
-Interface moderna com foco em UX/UI, responsividade e apresentação profissional.
-
-👉 Demonstra minhas habilidades como desenvolvedor e designer.
+Interface desenvolvida para apresentar minhas habilidades como desenvolvedor front-end, com foco em **UX/UI, responsividade e interatividade**.
 
 ---
 
 ### 🏢 Landing Page - USAIN
-Landing page institucional com foco em **performance, SEO e conversão**.
+Landing page institucional focada em **performance, presença digital e conversão**, com design moderno e estrutura otimizada.
 
 ---
 
 ### 💻 SL20 Tecnologia
-Página empresarial com navegação clara, estrutura organizada e experiência fluida.
+Site empresarial com navegação fluida e layout profissional, reforçando a presença digital da empresa.
 
 ---
 
 ### ⭐ Star Wars Todo List
-Aplicação interativa de tarefas com foco em estado, lógica e experiência do usuário.
+Aplicação interativa focada em **manipulação de estado e experiência do usuário**, com temática criativa.
 
 ---
 
 ## 📫 Contato
 
-📌 Vamos conversar?
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devgabrielvictorca/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devgabrielvictorca@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5512992193052)
-[![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-gabriel-cardoso-nu.vercel.app/)
+<p align="center">
+  <a href="SEU_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:SEU_EMAIL">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="SEU_WHATSAPP">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
+  <a href="SEU_PORTFOLIO">
+    <img src="https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
 ## 🎸 Curiosidade
 
-Além da programação, gosto de tocar violão 🎸 — isso me ajuda a relaxar e ter novas ideias para projetos.
+Gosto de tocar violão nas horas vagas 🎸 — além de ser um momento de relaxamento, isso me ajuda a ter novos insights e voltar ao código com mais clareza e criatividade.
 
 ---
 
-⭐ Sempre aberto a novas conexões e oportunidades!
+⭐ Sempre aberto a conexões e oportunidades!
