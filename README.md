@@ -62,7 +62,7 @@ Atualmente, estou evoluindo em **React e JavaScript moderno**, com foco em aplic
 
 Interface moderna desenvolvida para apresentar meus projetos, com foco em **UX/UI, responsividade e interatividade**.  
 
-<br>
+<br><br><br>
 
 🔹 **[💻 SL20 Tecnologia](https://sl20.com.br/)**  
 
