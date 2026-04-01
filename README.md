@@ -67,7 +67,7 @@ Interface moderna desenvolvida para apresentar meus projetos, com foco em **UX/U
 🔹 **[💻 SL20 Tecnologia](https://sl20.com.br/)**  
 
 <a href="https://seu-portfolio.vercel.app">
-  <img src="https://raw.githubusercontent.com/DevGabrielVictorCA/DevGabrielVictorCA/refs/heads/main/assets/sl20.png" width="100%"/>
+  <img src="https://raw.githubusercontent.com/DevGabrielVictorCA/DevGabrielVictorCA/refs/heads/main/assets/sl20.png" width="75%"/>
 </a>
 
 Site institucional com layout moderno e navegação fluida, focado em **clareza, organização e presença digital**.  
@@ -77,7 +77,7 @@ Site institucional com layout moderno e navegação fluida, focado em **clareza,
 🔹 **[🏢 Landing Page - USAIN](https://usainsolucoes.com.br/)**  
 
 <a href="https://seu-portfolio.vercel.app">
-  <img src="https://raw.githubusercontent.com/DevGabrielVictorCA/DevGabrielVictorCA/refs/heads/main/assets/usain.png" width="100%"/>
+  <img src="https://raw.githubusercontent.com/DevGabrielVictorCA/DevGabrielVictorCA/refs/heads/main/assets/usain.png" width="75%"/>
 </a>
 
 Landing page voltada para **performance e conversão**, com estrutura otimizada e design estratégico.  
