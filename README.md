@@ -58,7 +58,7 @@ Atualmente, estou evoluindo em **React e JavaScript moderno**, com foco em aplic
 
 <a href="https://portfolio-gabriel-cardoso-nu.vercel.app/">
   <p align="center">
-    <img src="https://raw.githubusercontent.com/DevGabrielVictorCA/DevGabrielVictorCA/refs/heads/main/assets/portfolio.png" width="75%"/>
+    <img src="https://raw.githubusercontent.com/DevGabrielVictorCA/DevGabrielVictorCA/refs/heads/main/assets/portfolio.png" width="85%"/>
   </p>
 </a>
 
@@ -70,7 +70,7 @@ Interface moderna desenvolvida para apresentar meus projetos, com foco em **UX/U
 
 <a href="https://sl20.com.br/">
     <p align="center">
-      <img src="https://raw.githubusercontent.com/DevGabrielVictorCA/DevGabrielVictorCA/refs/heads/main/assets/sl20.png" width="75%"/>
+      <img src="https://raw.githubusercontent.com/DevGabrielVictorCA/DevGabrielVictorCA/refs/heads/main/assets/sl20.png" width="85%"/>
     </p>
 </a>
 
@@ -82,7 +82,7 @@ Site institucional com layout moderno e navegação fluida, focado em **clareza,
 
 <a href="https://usainsolucoes.com.br/">
     <p align="center">
-      <img src="https://raw.githubusercontent.com/DevGabrielVictorCA/DevGabrielVictorCA/refs/heads/main/assets/usain.png" width="75%"/>
+      <img src="https://raw.githubusercontent.com/DevGabrielVictorCA/DevGabrielVictorCA/refs/heads/main/assets/usain.png" width="85%"/>
     </p>
 </a>
 
