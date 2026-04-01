@@ -62,7 +62,7 @@ Atualmente, estou evoluindo em **React e JavaScript moderno**, com foco em aplic
 
 Interface moderna desenvolvida para apresentar meus projetos, com foco em **UX/UI, responsividade e interatividade**.  
 
-<br><br><br>
+<br><br>
 
 🔹 **[💻 SL20 Tecnologia](https://sl20.com.br/)**  
 
@@ -72,7 +72,7 @@ Interface moderna desenvolvida para apresentar meus projetos, com foco em **UX/U
 
 Site institucional com layout moderno e navegação fluida, focado em **clareza, organização e presença digital**.  
 
-
+<br><br>
 
 🔹 **[🏢 Landing Page - USAIN](https://usainsolucoes.com.br/)**  
 
@@ -82,7 +82,7 @@ Site institucional com layout moderno e navegação fluida, focado em **clareza,
 
 Landing page voltada para **performance e conversão**, com estrutura otimizada e design estratégico.  
 
-
+<br><br>
 
 🔹 **[⭐ Star Wars Todo List](https://starwarstodolist.shop/)**  
 
