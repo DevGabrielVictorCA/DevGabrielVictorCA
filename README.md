@@ -1,16 +1,18 @@
 # 👋 Olá, eu sou o Gabriel Cardoso
 
 🎯 **Frontend Developer | UI/UX Designer**  
-💻 Focado em criar interfaces modernas, responsivas e centradas no usuário  
+💻 Crio interfaces modernas, responsivas e centradas no usuário  
+📍 Brasil | Aberto a freelas e oportunidades
 
 ---
 
 ## 🚀 Sobre mim
 
-Sou desenvolvedor front-end com foco em **experiência do usuário (UX/UI)** e interfaces modernas.  
-Atualmente estou evoluindo minhas habilidades em **React, TypeScript e consumo de APIs**, criando projetos reais com foco em produto.
+Sou desenvolvedor front-end com foco em **experiência do usuário (UX/UI)** e construção de interfaces modernas.
 
-📈 Buscando oportunidades como freelancer ou primeira experiência profissional na área.
+Atualmente estou evoluindo minhas habilidades em **React, TypeScript e consumo de APIs**, aplicando tudo em projetos práticos com foco em produto.
+
+🎯 Busco oportunidades como freelancer ou primeira experiência profissional.
 
 ---
 
@@ -21,66 +23,67 @@ Atualmente estou evoluindo minhas habilidades em **React, TypeScript e consumo d
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### 🌐 CMS & No-code
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![Elementor](https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white)
+### ⚙️ Estudando atualmente
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
-### ⚙️ Ferramentas & Outros
+### 🧰 Ferramentas
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-0AC97F?style=for-the-badge&logo=figma&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-### 📚 Estudando atualmente
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-<!-- ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) -->
-
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 Estatísticas
 
-![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=DevGabrielVictorCA&show_icons=true&theme=tokyonight)
-![Stats](https://github-readme-stats.vercel.app/api?username=DevGabrielVictorCA)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevGabrielVictorCA&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DevGabrielVictorCA&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevGabrielVictorCA&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
 ## 💼 Projetos em destaque
 
 ### 🌐 Portfólio Pessoal
-Projeto desenvolvido para apresentar minhas habilidades como desenvolvedor front-end, com foco em UX/UI, responsividade e interação com o usuário.
+Interface moderna com foco em UX/UI, responsividade e apresentação profissional.
+
+👉 Demonstra minhas habilidades como desenvolvedor e designer.
 
 ---
 
 ### 🏢 Landing Page - USAIN
-Landing page institucional focada em **performance, responsividade e conversão**, construída com boas práticas de SEO e design moderno.
+Landing page institucional com foco em **performance, SEO e conversão**.
 
 ---
 
 ### 💻 SL20 Tecnologia
-Página de apresentação empresarial com foco em clareza, navegação fluida e estrutura de conteúdo bem organizada.
+Página empresarial com navegação clara, estrutura organizada e experiência fluida.
 
 ---
 
 ### ⭐ Star Wars Todo List
-Aplicação de lista de tarefas com temática Star Wars, focada em **manipulação de estado, interatividade e experiência do usuário**.
+Aplicação interativa de tarefas com foco em estado, lógica e experiência do usuário.
 
 ---
 
 ## 📫 Contato
 
+📌 Vamos conversar?
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devgabrielvictorca/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devgabrielvictorca@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5512992193052)
-[![Portfólio](https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-gabriel-cardoso-nu.vercel.app/)
+[![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-gabriel-cardoso-nu.vercel.app/)
 
 ---
 
-## 🎯 Curiosidade
+## 🎸 Curiosidade
 
-Nas horas vagas, gosto de tocar violão 🎸 — além de ser um momento de relaxamento, isso me ajuda a ter novos insights e voltar ao código com mais clareza e criatividade.
+Além da programação, gosto de tocar violão nas horas vagas — isso me ajuda a relaxar e ter novas ideias para projetos.
 
 ---
 
