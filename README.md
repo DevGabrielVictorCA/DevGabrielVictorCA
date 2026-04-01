@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Gabriel Cardoso
 
-🎯 **Frontend Developer | UI/UX Design**  
+🎯 **Frontend Developer | UI/UX Designer**  
 💻 Focado em criar interfaces modernas, responsivas e centradas no usuário  
 
 ---
