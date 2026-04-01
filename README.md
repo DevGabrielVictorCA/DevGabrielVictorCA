@@ -68,7 +68,7 @@ Interface moderna desenvolvida para apresentar meus projetos, com foco em **UX/U
 
 🔹 **[💻 SL20 Tecnologia](https://sl20.com.br/)**  
 
-<a href="https://portfolio-gabriel-cardoso-nu.vercel.app/">
+<a href="https://sl20.com.br/">
     <p align="center">
       <img src="https://raw.githubusercontent.com/DevGabrielVictorCA/DevGabrielVictorCA/refs/heads/main/assets/sl20.png" width="75%"/>
     </p>
@@ -78,9 +78,9 @@ Site institucional com layout moderno e navegação fluida, focado em **clareza,
 
 <br>
 
-🔹 **[🏢 Landing Page - USAIN](https://usainsolucoes.com.br/)**  
+🔹 **[🏢 Landing Page - USAIN]()**  
 
-<a href="https://portfolio-gabriel-cardoso-nu.vercel.app/">
+<a href="https://usainsolucoes.com.br/">
     <p align="center">
       <img src="https://raw.githubusercontent.com/DevGabrielVictorCA/DevGabrielVictorCA/refs/heads/main/assets/usain.png" width="75%"/>
     </p>
