@@ -41,9 +41,9 @@ Atualmente estou evoluindo minhas habilidades em **React, TypeScript e consumo d
 
 ## 📊 Estatísticas do GitHub
 
-![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight)
+![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=DevGabrielVictorCA&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevGabrielVictorCA&layout=compact&theme=tokyonight)
 
 ---
 
