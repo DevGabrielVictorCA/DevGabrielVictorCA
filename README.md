@@ -55,6 +55,10 @@ Atualmente, estou evoluindo em **React e JavaScript moderno**, com foco em aplic
 ## 💼 Projetos em destaque
 
 🔹 **[🌐 Portfólio Pessoal](https://portfolio-gabriel-cardoso-nu.vercel.app/)**  
+<a href="https://seu-portfolio.vercel.app">
+  <img src="https://raw.githubusercontent.com/DevGabrielVictorCA/DevGabrielVictorCA/refs/heads/main/assets/portfolio.png" width="100%"/>
+</a>
+
 Interface moderna desenvolvida para apresentar meus projetos, com foco em **UX/UI, responsividade e interatividade**.  
 
 🔹 **[💻 SL20 Tecnologia](https://sl20.com.br/)**  
