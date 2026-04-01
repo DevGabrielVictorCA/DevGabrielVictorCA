@@ -53,16 +53,16 @@ Atualmente, estou evoluindo em **React e JavaScript moderno**, com foco em aplic
 
 ## 💼 Projetos em destaque
 
-🔹 **[🌐 Portfólio Pessoal](LINK_PORTFOLIO)**  
+🔹 **[🌐 Portfólio Pessoal](https://portfolio-gabriel-cardoso-nu.vercel.app/)**  
 Interface moderna desenvolvida para apresentar meus projetos, com foco em **UX/UI, responsividade e interatividade**.  
 
-🔹 **[💻 SL20 Tecnologia](LINK_SL20)**  
+🔹 **[💻 SL20 Tecnologia](https://sl20.com.br/)**  
 Site institucional com layout moderno e navegação fluida, focado em **clareza, organização e presença digital**.  
 
-🔹 **[🏢 Landing Page - USAIN](LINK_USAIN)**  
+🔹 **[🏢 Landing Page - USAIN](https://usainsolucoes.com.br/)**  
 Landing page voltada para **performance e conversão**, com estrutura otimizada e design estratégico.  
 
-🔹 **[⭐ Star Wars Todo List](LINK_TODO)**  
+🔹 **[⭐ Star Wars Todo List](https://starwarstodolist.shop/)**  
 Aplicação interativa com foco em **manipulação de estado e experiência do usuário**, utilizando JavaScript.  
 
 <p align="center">
