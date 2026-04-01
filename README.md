@@ -56,8 +56,10 @@ Atualmente, estou evoluindo em **React e JavaScript moderno**, com foco em aplic
 
 🔹 **[🌐 Portfólio Pessoal](https://portfolio-gabriel-cardoso-nu.vercel.app/)**  
 
-<a href="https://seu-portfolio.vercel.app" align="center">
-  <img src="https://raw.githubusercontent.com/DevGabrielVictorCA/DevGabrielVictorCA/refs/heads/main/assets/portfolio.png" width="75%"/>
+<a href="https://seu-portfolio.vercel.app">
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/DevGabrielVictorCA/DevGabrielVictorCA/refs/heads/main/assets/portfolio.png" width="75%"/>
+  </p>
 </a>
 
 Interface moderna desenvolvida para apresentar meus projetos, com foco em **UX/UI, responsividade e interatividade**.  
