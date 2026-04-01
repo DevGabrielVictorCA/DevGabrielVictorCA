@@ -50,41 +50,19 @@ Atualmente estou evoluindo em **React** e desenvolvimento moderno, construindo p
 
 ---
 
-## 💼 Projetos em destaque
-
-### 🌐 Portfólio Pessoal
-Interface desenvolvida para apresentar minhas habilidades como desenvolvedor front-end, com foco em **UX/UI, responsividade e interatividade**.
-
----
-
-### 🏢 Landing Page - USAIN
-Landing page institucional focada em **performance, presença digital e conversão**, com design moderno e estrutura otimizada.
-
----
-
-### 💻 SL20 Tecnologia
-Site empresarial com navegação fluida e layout profissional, reforçando a presença digital da empresa.
-
----
-
-### ⭐ Star Wars Todo List
-Aplicação interativa focada em **manipulação de estado e experiência do usuário**, com temática criativa.
-
----
-
 ## 📫 Contato
 
 <p align="center">
-  <a href="SEU_LINKEDIN">
+  <a href="https://www.linkedin.com/in/devgabrielvictorca/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:SEU_EMAIL">
+  <a href="mailto:devgabrielvictorca@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="SEU_WHATSAPP">
+  <a href="https://wa.me/5512992193052">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
-  <a href="SEU_PORTFOLIO">
+  <a href="https://portfolio-gabriel-cardoso-nu.vercel.app/">
     <img src="https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
