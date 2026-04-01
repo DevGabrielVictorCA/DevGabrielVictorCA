@@ -45,8 +45,8 @@ Atualmente, estou evoluindo em **React e JavaScript moderno**, com foco em aplic
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=devgabrielvictorca&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devgabrielvictorca&layout=compact&theme=tokyonight&cache_seconds=1800"/>
+  <!-- <img height="150em" src="https://github-readme-stats.vercel.app/api?username=devgabrielvictorca&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devgabrielvictorca&layout=compact&theme=tokyonight&cache_seconds=1800"/> -->
   <img src="https://streak-stats.demolab.com?user=devgabrielvictorca&theme=tokyonight" />
 </p>
 
