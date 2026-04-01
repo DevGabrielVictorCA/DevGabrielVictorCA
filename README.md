@@ -57,12 +57,12 @@ Atualmente, estou evoluindo em **React e JavaScript moderno**, com foco em aplic
 🔹 **[🌐 Portfólio Pessoal](https://portfolio-gabriel-cardoso-nu.vercel.app/)**  
 
 <a href="https://seu-portfolio.vercel.app">
-  <img src="https://raw.githubusercontent.com/DevGabrielVictorCA/DevGabrielVictorCA/refs/heads/main/assets/portfolio.png" width="100%"/>
+  <img src="https://raw.githubusercontent.com/DevGabrielVictorCA/DevGabrielVictorCA/refs/heads/main/assets/portfolio.png" width="50%"/>
 </a>
 
 Interface moderna desenvolvida para apresentar meus projetos, com foco em **UX/UI, responsividade e interatividade**.  
 
-<br><br>
+<br>
 
 🔹 **[💻 SL20 Tecnologia](https://sl20.com.br/)**  
 
@@ -72,7 +72,7 @@ Interface moderna desenvolvida para apresentar meus projetos, com foco em **UX/U
 
 Site institucional com layout moderno e navegação fluida, focado em **clareza, organização e presença digital**.  
 
-<br><br>
+<br>
 
 🔹 **[🏢 Landing Page - USAIN](https://usainsolucoes.com.br/)**  
 
@@ -82,7 +82,7 @@ Site institucional com layout moderno e navegação fluida, focado em **clareza,
 
 Landing page voltada para **performance e conversão**, com estrutura otimizada e design estratégico.  
 
-<br><br>
+<br>
 
 🔹 **[⭐ Star Wars Todo List](https://starwarstodolist.shop/)**  
 
