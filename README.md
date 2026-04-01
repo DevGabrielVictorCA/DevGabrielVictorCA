@@ -1,57 +1,82 @@
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+# 👋 Olá, eu sou o Gabriel Cardoso
 
-
-# Olá, eu sou o Gabriel Cardoso! 👋
-DevGabrielVictorCA | 
-
-Desenvolvedor web em constante aprendizado, apaixonado por criar interfaces limpas, escrever código organizado e explorar novas tecnologias. 🚀  
+🎯 **Frontend Developer | UI/UX Enthusiast**  
+💻 Focado em criar interfaces modernas, responsivas e centradas no usuário  
 
 ---
 
-## 💻 Skills & Tecnologias
+## 🚀 Sobre mim
 
-### Linguagens
-<div style="display: flex; gap: 60px; align-items: center;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5" title="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="50" height="50" alt="CSS3" title="CSS3t"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript" title="JavaScript"/>
-</div>
+Sou desenvolvedor front-end com foco em **experiência do usuário (UX/UI)** e interfaces modernas.  
+Atualmente estou evoluindo minhas habilidades em **React, TypeScript e consumo de APIs**, criando projetos reais com foco em produto.
 
-### Frameworks & Ferramentas
-<div style="display: flex; gap: 60px; align-items: center;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50" height="50" alt="Git" title="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="50" height="50" alt="GitHub" title="GitHub"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="50" height="50" alt="Tailwind" title="Tailwind"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="50" height="50" alt="Figma" title="Figma"/>
-</div>
-
-- Documentação de Software
+📈 Buscando oportunidades como freelancer ou primeira experiência profissional na área.
 
 ---
 
-## 📂 Projetos
-- [Projeto 1](link-do-projeto-1) – Breve descrição do projeto  
-- [Projeto 2](link-do-projeto-2) – Breve descrição do projeto  
-- [Portfólio Pessoal](link-do-portfolio) – Site com meus projetos e trabalhos  
+## 🛠️ Tecnologias & Ferramentas
 
-> ⚡ Dica: você pode adicionar GIFs ou screenshots dos projetos para deixar mais visual.  
+### 💻 Frontend
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### ⚙️ Ferramentas & Outros
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-0AC97F?style=for-the-badge&logo=figma&logoColor=white)
+
+### 📚 Estudando atualmente
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+---
+
+## 📊 Estatísticas do GitHub
+
+![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=tokyonight)
+
+---
+
+## 💼 Projetos em destaque
+
+### 🌐 Portfólio Pessoal
+Projeto desenvolvido para apresentar minhas habilidades como desenvolvedor front-end, com foco em UX/UI, responsividade e interação com o usuário.
+
+---
+
+### 🏢 Landing Page - USAIN
+Landing page institucional focada em **performance, responsividade e conversão**, construída com boas práticas de SEO e design moderno.
+
+---
+
+### 💻 SL20 Tecnologia
+Página de apresentação empresarial com foco em clareza, navegação fluida e estrutura de conteúdo bem organizada.
+
+---
+
+### ⭐ Star Wars Todo List
+Aplicação de lista de tarefas com temática Star Wars, focada em **manipulação de estado, interatividade e experiência do usuário**.
 
 ---
 
 ## 📫 Contato
-- LinkedIn: [Gabriel Cardoso](https://linkedin.com/in/seu-linkedin)  
-- Twitter: [@GabrielCardoso](https://twitter.com/seu-twitter)  
-- Email: seuemail@email.com  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINKEDIN)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](SEU_WHATSAPP)
+[![Portfólio](https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=vercel&logoColor=white)](SEU_PORTFOLIO)
 
 ---
 
-## 📊 GitHub Stats
-![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevGabrielVictorCA&show_icons=true&theme=radical)
+## 🎯 Curiosidade
+
+Além da tecnologia, gosto de explorar ideias de projetos que misturam **design, experiência do usuário e utilidade real**, como meu projeto de guia de praias — unindo tecnologia com o mundo real 🌊
 
 ---
 
-## 🎨 Hobbies & Interesses
-- Design de interfaces e UX  
-- Open Source  
-- Explorar novas tecnologias web  
-- Aprender continuamente sobre boas práticas de desenvolvimento
+⭐ Sempre aberto a novas conexões e oportunidades!
