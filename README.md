@@ -81,7 +81,7 @@ Landing page voltada para **performance e conversão**, com estrutura otimizada 
 🔹 **[⭐ Star Wars Todo List](https://starwarstodolist.shop/)**  
 
 <a href="https://seu-portfolio.vercel.app">
-  <img src="https://raw.githubusercontent.com/DevGabrielVictorCA/DevGabrielVictorCA/refs/heads/main/assets/todo.p" width="100%"/>
+  <img src="https://raw.githubusercontent.com/DevGabrielVictorCA/DevGabrielVictorCA/refs/heads/main/assets/todo.png" width="100%"/>
 </a>
 
 Aplicação interativa com foco em **manipulação de estado e experiência do usuário**, utilizando JavaScript.  
