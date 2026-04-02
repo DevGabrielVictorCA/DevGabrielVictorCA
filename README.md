@@ -1,36 +1,35 @@
 # 👋 Gabriel Cardoso
 
 💻 **Frontend Developer | UI/UX Designer**  
-🚀 Crio interfaces modernas, rápidas e focadas em experiência do usuário e conversão.
+🚀 Interfaces modernas, responsivas e orientadas à experiência do usuário e conversão.
 
 ---
 
 ## 🧭 Sobre mim
 
-Sou desenvolvedor front-end com foco em **UI/UX e construção de interfaces centradas no usuário**, unindo estética, usabilidade e performance.
+Desenvolvedor front-end focado em **criação de interfaces centradas no usuário**, unindo design, usabilidade e implementação funcional.
 
-Atuo principalmente no desenvolvimento de **sites institucionais e landing pages**, transformando ideias em interfaces funcionais, responsivas e bem estruturadas.
+Atuo principalmente no desenvolvimento de **sites institucionais e landing pages**, transformando layouts em interfaces responsivas, organizadas e com boa experiência de navegação.
 
 Tenho experiência prática com:
 
-- Desenvolvimento de interfaces com **HTML, CSS e JavaScript**
-- Criação e customização de sites em **WordPress + Elementor**
-- Aplicação de **HTML semântico e boas práticas de SEO**
-- Construção de layouts responsivos e consistentes
-- Foco em clareza visual, organização e experiência do usuário
+- Desenvolvimento de interfaces com HTML, CSS e JavaScript  
+- Criação de sites com WordPress + Elementor  
+- Construção de layouts responsivos  
+- Aplicação de HTML semântico e noções de SEO  
+- Organização visual e consistência de interface  
 
-Atualmente, estou aprofundando meus conhecimentos em **React e JavaScript moderno**, com foco em aplicações dinâmicas, consumo de APIs e componentização.
+Atualmente, estou evoluindo em **React e JavaScript moderno**, com foco em aplicações dinâmicas, consumo de APIs e componentização.
 
 ---
 
-## 🧠 O que eu entrego
+## 🧠 Foco de atuação
 
-- Interfaces responsivas e bem estruturadas  
-- Experiência de usuário intuitiva e consistente  
-- Código organizado e de fácil manutenção  
-- Sites com foco em performance e clareza  
-- Atenção a detalhes visuais e funcionais  
-- Soluções alinhadas com objetivos de produto (UX + conversão)  
+- UI/UX aplicado na prática  
+- Interfaces responsivas e consistentes  
+- Experiência do usuário  
+- Estrutura limpa e organizada  
+- Desenvolvimento orientado a resultado (UX + conversão)  
 
 ---
 
@@ -61,27 +60,35 @@ Atualmente, estou aprofundando meus conhecimentos em **React e JavaScript modern
 ### 🌐 Portfólio Pessoal  
 🔗 https://portfolio-gabriel-cardoso-nu.vercel.app/
 
-Projeto desenvolvido para apresentar meus trabalhos e consolidar minha identidade como desenvolvedor.
+Projeto desenvolvido para centralizar meus trabalhos e apresentar minha identidade como desenvolvedor.
 
-**Responsável por:**
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DevGabrielVictorCA/DevGabrielVictorCA/refs/heads/main/assets/portfolio.png" width="85%"/>
+</p>
+
+**Atuação:**
 - Design da interface  
-- Implementação front-end  
+- Desenvolvimento front-end  
 - Responsividade  
-- Organização visual e UX  
-- Estruturação dos projetos apresentados  
+- Estrutura e organização dos projetos  
+- Foco em UX e apresentação clara  
 
 ---
 
 ### 💻 SL20 Tecnologia  
 🔗 https://sl20.com.br/
 
-Site institucional com foco em presença digital e comunicação clara.
+Site institucional desenvolvido com foco em clareza, organização e presença digital.
 
-**Responsável por:**
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DevGabrielVictorCA/DevGabrielVictorCA/refs/heads/main/assets/sl20.png" width="85%"/>
+</p>
+
+**Atuação:**
 - Implementação do layout  
 - Adaptação responsiva  
 - Organização da interface  
-- Aplicação de boas práticas de estrutura web  
+- Boas práticas de estrutura web  
 
 ---
 
@@ -90,7 +97,11 @@ Site institucional com foco em presença digital e comunicação clara.
 
 Landing page voltada para apresentação de serviços e foco em conversão.
 
-**Responsável por:**
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DevGabrielVictorCA/DevGabrielVictorCA/refs/heads/main/assets/usain.png" width="85%"/>
+</p>
+
+**Atuação:**
 - Estrutura da landing page  
 - Organização visual estratégica  
 - Otimização da experiência do usuário  
@@ -98,16 +109,16 @@ Landing page voltada para apresentação de serviços e foco em conversão.
 
 ---
 
-👉 Explore mais projetos nos meus repositórios.
+👉 Mais projetos disponíveis nos repositórios.
 
 ---
 
 ## 🎯 Diferenciais
 
-- Foco em **UX/UI aplicado na prática**  
 - Experiência com projetos reais publicados  
+- Foco em UX/UI aplicado na prática  
 - Capacidade de transformar design em interface funcional  
-- Conhecimento em WordPress aliado ao desenvolvimento front-end  
+- Conhecimento em WordPress + desenvolvimento front-end  
 - HTML semântico e noções de SEO  
 - Organização, consistência visual e atenção aos detalhes  
 - Evolução contínua com tecnologias modernas  
@@ -122,7 +133,7 @@ Landing page voltada para apresentação de serviços e foco em conversão.
 
 ---
 
-## 📫 Vamos nos conectar
+## 📫 Contato
 
 Aberto a oportunidades, projetos e conexões na área de desenvolvimento.
 
@@ -137,7 +148,7 @@ Aberto a oportunidades, projetos e conexões na área de desenvolvimento.
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
   <a href="https://portfolio-gabriel-cardoso-nu.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
 
@@ -145,8 +156,7 @@ Aberto a oportunidades, projetos e conexões na área de desenvolvimento.
 
 ## 🎸 Curiosidade
 
-Tocar violão 🎸 é um dos meus hobbies.  
-Além de ser um momento de relaxamento, ajuda a estimular criatividade e novas ideias para os projetos.
+Tocar violão 🎸 faz parte da minha rotina como hobby e também como forma de estimular criatividade e novas ideias para projetos.
 
 ---
 
