@@ -1,34 +1,34 @@
 # 👋 Gabriel Cardoso
 
 💻 **Frontend Developer | UI/UX Designer**  
-🚀 Interfaces modernas, responsivas e orientadas à experiência do usuário e conversão.
+🚀 Crio interfaces modernas, responsivas e orientadas à experiência do usuário, com foco em clareza, performance e conversão.
 
 ---
 
 ## 🧭 Sobre mim
 
-Desenvolvedor front-end focado em **criação de interfaces centradas no usuário**, unindo design, usabilidade e implementação funcional.
+Sou desenvolvedor front-end com foco na construção de interfaces centradas no usuário, unindo design e implementação para entregar experiências consistentes, organizadas e funcionais.
 
-Atuo principalmente no desenvolvimento de **sites institucionais e landing pages**, transformando layouts em interfaces responsivas, organizadas e com boa experiência de navegação.
+Atuo principalmente no desenvolvimento de sites institucionais e landing pages, transformando layouts em interfaces responsivas, acessíveis e com boa fluidez de navegação.
 
 Tenho experiência prática com:
 
 - Desenvolvimento de interfaces com HTML, CSS e JavaScript  
 - Criação de sites com WordPress + Elementor  
 - Construção de layouts responsivos  
-- Aplicação de HTML semântico e noções de SEO  
+- HTML semântico e noções de SEO  
 - Organização visual e consistência de interface  
 
-Atualmente, estou evoluindo em **React e JavaScript moderno**, com foco em aplicações dinâmicas, consumo de APIs e componentização.
+Atualmente, estou aprofundando meus conhecimentos em **React e JavaScript moderno**, com foco em componentização, consumo de APIs e construção de aplicações dinâmicas.
 
 ---
 
 ## 🧠 Foco de atuação
 
-- UI/UX aplicado na prática  
-- Interfaces responsivas e consistentes  
-- Experiência do usuário  
-- Estrutura limpa e organizada  
+- Aplicação prática de UI/UX  
+- Construção de interfaces responsivas e consistentes  
+- Experiência do usuário orientada a clareza e usabilidade  
+- Estrutura limpa, organizada e escalável  
 - Desenvolvimento orientado a resultado (UX + conversão)  
 
 ---
@@ -67,60 +67,60 @@ Projeto desenvolvido para centralizar meus trabalhos e apresentar minha identida
 </p>
 
 **Atuação:**
-- Design da interface  
-- Desenvolvimento front-end  
-- Responsividade  
-- Estrutura e organização dos projetos  
-- Foco em UX e apresentação clara  
+- Definição da interface e estrutura visual  
+- Desenvolvimento front-end completo  
+- Responsividade em diferentes dispositivos  
+- Organização dos projetos e hierarquia de informações  
+- Foco em experiência do usuário e apresentação clara  
 
 ---
 
 ### 💻 SL20 Tecnologia  
 🔗 https://sl20.com.br/
 
-Site institucional desenvolvido com foco em clareza, organização e presença digital.
+Site institucional desenvolvido com foco em comunicação clara, organização de conteúdo e presença digital consistente.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/DevGabrielVictorCA/DevGabrielVictorCA/refs/heads/main/assets/sl20.png" width="85%"/>
 </p>
 
 **Atuação:**
-- Implementação do layout  
+- Implementação do layout definido  
 - Adaptação responsiva  
 - Organização da interface  
-- Boas práticas de estrutura web  
+- Aplicação de boas práticas de estrutura web  
 
 ---
 
 ### 🏢 Landing Page - USAIN  
 🔗 https://usainsolucoes.com.br/
 
-Landing page voltada para apresentação de serviços e foco em conversão.
+Landing page desenvolvida com foco em apresentação de serviços e otimização para conversão.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/DevGabrielVictorCA/DevGabrielVictorCA/refs/heads/main/assets/usain.png" width="85%"/>
 </p>
 
 **Atuação:**
-- Estrutura da landing page  
-- Organização visual estratégica  
+- Estruturação da landing page  
+- Organização visual com foco em conversão  
 - Otimização da experiência do usuário  
-- Construção orientada a conversão  
+- Construção de uma navegação clara e objetiva  
 
 ---
 
-👉 Mais projetos disponíveis nos repositórios.
+👉 Outros projetos podem ser encontrados nos repositórios.
 
 ---
 
 ## 🎯 Diferenciais
 
-- Experiência com projetos reais publicados  
-- Foco em UX/UI aplicado na prática  
-- Capacidade de transformar design em interface funcional  
-- Conhecimento em WordPress + desenvolvimento front-end  
-- HTML semântico e noções de SEO  
-- Organização, consistência visual e atenção aos detalhes  
+- Experiência com projetos reais já publicados  
+- Aplicação prática de UI/UX no desenvolvimento  
+- Capacidade de transformar layouts em interfaces funcionais  
+- Conhecimento em WordPress aliado ao desenvolvimento front-end  
+- HTML semântico e boas práticas de SEO  
+- Atenção à organização, consistência visual e detalhes  
 - Evolução contínua com tecnologias modernas  
 
 ---
@@ -156,7 +156,7 @@ Aberto a oportunidades, projetos e conexões na área de desenvolvimento.
 
 ## 🎸 Curiosidade
 
-Tocar violão 🎸 faz parte da minha rotina como hobby e também como forma de estimular criatividade e novas ideias para projetos.
+Tocar violão 🎸 faz parte da minha rotina como hobby e também contribui para criatividade, foco e novas ideias aplicadas aos projetos.
 
 ---
 
