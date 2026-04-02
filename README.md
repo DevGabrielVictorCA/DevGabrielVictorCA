@@ -1,22 +1,36 @@
 # 👋 Gabriel Cardoso
 
 💻 **Frontend Developer | UI/UX Designer**  
-🎯 Interfaces modernas, responsivas e centradas no usuário  
+🚀 Crio interfaces modernas, rápidas e focadas em experiência do usuário e conversão.
 
 ---
 
-## 🚀 Sobre mim
+## 🧭 Sobre mim
 
-Sou desenvolvedor front-end com foco em **experiência do usuário (UX/UI)** e criação de interfaces modernas e funcionais.
+Sou desenvolvedor front-end com foco em **UI/UX e construção de interfaces centradas no usuário**, unindo estética, usabilidade e performance.
 
-Tenho experiência no desenvolvimento de **landing pages e sites institucionais**, utilizando:
+Atuo principalmente no desenvolvimento de **sites institucionais e landing pages**, transformando ideias em interfaces funcionais, responsivas e bem estruturadas.
 
-- HTML, CSS e JavaScript  
-- WordPress + Elementor  
+Tenho experiência prática com:
 
-Trabalho com **código limpo, boas práticas e atenção aos detalhes**, sempre buscando entregar interfaces claras, organizadas e eficientes.
+- Desenvolvimento de interfaces com **HTML, CSS e JavaScript**
+- Criação e customização de sites em **WordPress + Elementor**
+- Aplicação de **HTML semântico e boas práticas de SEO**
+- Construção de layouts responsivos e consistentes
+- Foco em clareza visual, organização e experiência do usuário
 
-Atualmente, estou evoluindo em **React e JavaScript moderno**, com foco em aplicações mais dinâmicas e consumo de APIs.
+Atualmente, estou aprofundando meus conhecimentos em **React e JavaScript moderno**, com foco em aplicações dinâmicas, consumo de APIs e componentização.
+
+---
+
+## 🧠 O que eu entrego
+
+- Interfaces responsivas e bem estruturadas  
+- Experiência de usuário intuitiva e consistente  
+- Código organizado e de fácil manutenção  
+- Sites com foco em performance e clareza  
+- Atenção a detalhes visuais e funcionais  
+- Soluções alinhadas com objetivos de produto (UX + conversão)  
 
 ---
 
@@ -42,74 +56,75 @@ Atualmente, estou evoluindo em **React e JavaScript moderno**, com foco em aplic
 
 ---
 
-## 📊 GitHub Stats
+## 📌 Projetos em destaque
 
-<p align="center">
-  <!-- <img height="150em" src="https://github-readme-stats.vercel.app/api?username=devgabrielvictorca&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devgabrielvictorca&layout=compact&theme=tokyonight&cache_seconds=1800"/> -->
-  <img src="https://streak-stats.demolab.com?user=devgabrielvictorca&theme=tokyonight" />
-</p>
+### 🌐 Portfólio Pessoal  
+🔗 https://portfolio-gabriel-cardoso-nu.vercel.app/
+
+Projeto desenvolvido para apresentar meus trabalhos e consolidar minha identidade como desenvolvedor.
+
+**Responsável por:**
+- Design da interface  
+- Implementação front-end  
+- Responsividade  
+- Organização visual e UX  
+- Estruturação dos projetos apresentados  
 
 ---
 
-## 💼 Projetos em destaque
+### 💻 SL20 Tecnologia  
+🔗 https://sl20.com.br/
 
-🔹 **[🌐 Portfólio Pessoal](https://portfolio-gabriel-cardoso-nu.vercel.app/)**  
+Site institucional com foco em presença digital e comunicação clara.
 
-<a href="https://portfolio-gabriel-cardoso-nu.vercel.app/">
-  <p align="center">
-    <img src="https://raw.githubusercontent.com/DevGabrielVictorCA/DevGabrielVictorCA/refs/heads/main/assets/portfolio.png" width="85%"/>
-  </p>
-</a>
+**Responsável por:**
+- Implementação do layout  
+- Adaptação responsiva  
+- Organização da interface  
+- Aplicação de boas práticas de estrutura web  
 
-Interface moderna desenvolvida para apresentar meus projetos, com foco em **UX/UI, responsividade e interatividade**.  
+---
 
-<br>
+### 🏢 Landing Page - USAIN  
+🔗 https://usainsolucoes.com.br/
 
-🔹 **[💻 SL20 Tecnologia](https://sl20.com.br/)**  
+Landing page voltada para apresentação de serviços e foco em conversão.
 
-<a href="https://sl20.com.br/">
-    <p align="center">
-      <img src="https://raw.githubusercontent.com/DevGabrielVictorCA/DevGabrielVictorCA/refs/heads/main/assets/sl20.png" width="85%"/>
-    </p>
-</a>
+**Responsável por:**
+- Estrutura da landing page  
+- Organização visual estratégica  
+- Otimização da experiência do usuário  
+- Construção orientada a conversão  
 
-Site institucional com layout moderno e navegação fluida, focado em **clareza, organização e presença digital**.  
+---
 
-<br>
-
-🔹 **[🏢 Landing Page - USAIN]()**  
-
-<a href="https://usainsolucoes.com.br/">
-    <p align="center">
-      <img src="https://raw.githubusercontent.com/DevGabrielVictorCA/DevGabrielVictorCA/refs/heads/main/assets/usain.png" width="85%"/>
-    </p>
-</a>
-
-Landing page voltada para **performance e conversão**, com estrutura otimizada e design estratégico.  
-
-<p align="center">
-  👉 Explore mais projetos nos repositórios abaixo
-</p>
+👉 Explore mais projetos nos meus repositórios.
 
 ---
 
 ## 🎯 Diferenciais
 
-✔️ Foco em UX/UI e experiência do usuário  
-✔️ Código limpo e organizado  
-✔️ HTML semântico e noções de SEO  
-✔️ Boas práticas de desenvolvimento  
-✔️ Versionamento com Git  
-✔️ Atenção aos detalhes  
+- Foco em **UX/UI aplicado na prática**  
+- Experiência com projetos reais publicados  
+- Capacidade de transformar design em interface funcional  
+- Conhecimento em WordPress aliado ao desenvolvimento front-end  
+- HTML semântico e noções de SEO  
+- Organização, consistência visual e atenção aos detalhes  
+- Evolução contínua com tecnologias modernas  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=devgabrielvictorca&theme=tokyonight" />
+</p>
 
 ---
 
 ## 📫 Vamos nos conectar
 
-<p align="center">
-  💬 Aberto a oportunidades, projetos e conexões
-</p>
+Aberto a oportunidades, projetos e conexões na área de desenvolvimento.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/devgabrielvictorca/">
@@ -130,8 +145,9 @@ Landing page voltada para **performance e conversão**, com estrutura otimizada 
 
 ## 🎸 Curiosidade
 
-Gosto de tocar violão 🎸 — além de ser um momento de relaxamento, isso me ajuda a ter novos insights e voltar ao código com mais clareza e criatividade.
+Tocar violão 🎸 é um dos meus hobbies.  
+Além de ser um momento de relaxamento, ajuda a estimular criatividade e novas ideias para os projetos.
 
 ---
 
-⭐ Aberto a oportunidades, projetos e conexões!
+⭐ Obrigado pela visita!
