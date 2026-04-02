@@ -80,9 +80,11 @@ Projeto desenvolvido para centralizar meus trabalhos e apresentar minha identida
 
 Site institucional desenvolvido com foco em comunicação clara, organização de conteúdo e presença digital consistente.
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/DevGabrielVictorCA/DevGabrielVictorCA/refs/heads/main/assets/sl20.png" width="85%"/>
-</p>
+<a href="https://sl20.com.br/">
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/DevGabrielVictorCA/DevGabrielVictorCA/refs/heads/main/assets/sl20.png" width="85%"/>
+  </p>
+</a>
 
 **Atuação:**
 - Implementação do layout definido  
