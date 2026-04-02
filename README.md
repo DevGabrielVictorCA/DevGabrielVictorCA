@@ -62,9 +62,11 @@ Atualmente, estou aprofundando meus conhecimentos em **React e JavaScript modern
 
 Projeto desenvolvido para centralizar meus trabalhos e apresentar minha identidade como desenvolvedor.
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/DevGabrielVictorCA/DevGabrielVictorCA/refs/heads/main/assets/portfolio.png" width="85%"/>
-</p>
+<a href="https://portfolio-gabriel-cardoso-nu.vercel.app/">
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/DevGabrielVictorCA/DevGabrielVictorCA/refs/heads/main/assets/portfolio.png" width="85%"/>
+  </p>
+</a>
 
 **Atuação:**
 - Definição da interface e estrutura visual  
@@ -99,9 +101,11 @@ Site institucional desenvolvido com foco em comunicação clara, organização d
 
 Landing page desenvolvida com foco em apresentação de serviços e otimização para conversão.
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/DevGabrielVictorCA/DevGabrielVictorCA/refs/heads/main/assets/usain.png" width="85%"/>
-</p>
+<a href="https://usainsolucoes.com.br/">
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/DevGabrielVictorCA/DevGabrielVictorCA/refs/heads/main/assets/usain.png" width="85%"/>
+  </p>
+</a>
 
 **Atuação:**
 - Estruturação da landing page  
